@@ -1,0 +1,3 @@
+# Mac-os Initialisation helpers
+This repo will help installing brew, port, wezterm, latex, texlive etc.
+And set up configs for wezterm and will copy the specific `~/.bash_profile`
